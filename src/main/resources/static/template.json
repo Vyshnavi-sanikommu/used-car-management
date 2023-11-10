@@ -1,0 +1,11 @@
+[
+    {
+        "carMake": "Tata",
+        "carModel": "Innova",
+        "fuelType": "Gas",
+        "year": "2016",
+        "mileage": "55000",
+        "price": "2500.00",
+        "suspension": "Good"
+    }
+]
